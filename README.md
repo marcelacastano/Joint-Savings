@@ -6,9 +6,9 @@
 
 ## Source Code 🔍
 
-Source code: [Joint Savings Account](joint_savings.sol)
+- Source code: [Joint Savings Account](joint_savings.sol)
 
-Proof of contract functionality: [Screenshots](Execution_Results)
+- Proof of contract functionality: [Screenshots](Execution_Results)
 
 ## Here's How it Works👇
 

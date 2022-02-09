@@ -1,4 +1,16 @@
-# Ethereum Based Joint Savings Account
+# Ethereum-Based Joint Savings Account 🪙
 
-- Savings account that accepts two wallet addresses.
-- Deployed on Rinkeby Testnet.
+![ethereum](Images/ethereum.jpg)
+
+### *Two-wallet address savings account deployed on Rinkeby Testnet*
+
+## Source Code 🔍
+
+[Joint Savings Account](joint_savings.sol)
+
+## Here's How it Works👇
+
+
+## Useful Links 🆘
+
+[Create a Metamask Wallet](https://thirdweb.com/portal/guides/create-a-metamask-wallet)

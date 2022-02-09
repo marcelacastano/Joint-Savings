@@ -6,7 +6,7 @@
 
 ## Source Code 🔍
 
-[Joint Savings Account Code](joint_savings.sol)
+[Code for joint savings account](joint_savings.sol)
 
 [Screenshots of contract functionality](Execution_Results)
 

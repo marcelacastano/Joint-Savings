@@ -6,9 +6,9 @@
 
 ## Source Code 🔍
 
-[Code for joint savings account](joint_savings.sol)
+Source code: [Joint Savings Account](joint_savings.sol)
 
-[Screenshots of contract functionality](Execution_Results)
+Proof of contract functionality: [screenshots](Execution_Results)
 
 ## Here's How it Works👇
 
@@ -36,7 +36,7 @@ Test the smart contract's `deposit` functionality:
 - Enter deposit amount in the `value` field
 - Click `deposit` button
 
-<img src="Execution_Results/send1ether.png" alt="deposit" height="400"/>
+<img src="Execution_Results/send1ether.png" alt="deposit" height="500"/>
 
 Verify transaction in log:
 

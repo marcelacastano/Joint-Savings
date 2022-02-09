@@ -1,2 +1,4 @@
-# Joint-Savings
-Solidity smart contract that accepts two user addresses.
+# Ethereum Based Joint Savings Account
+
+- Savings account that accepts two wallet addresses.
+- Deployed on Rinkeby Testnet.

@@ -17,10 +17,10 @@
 Use the following dummy accounts, or create new, dummy addresses on the [Vanity-ETH](https://vanity-eth.tk/):
 
 Dummy account1:
-> address: 0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb
+  > address: 0x0c0669Cd5e60a6F4b8ce437E4a4A007093D368Cb
 
 Dummy account2:
-> address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
+  > address: 0x7A1f3dFAa0a4a19844B606CD6e91d693083B12c0
 
 Use the `setAccounts` function to define the authorized Ethereum address that will be able to withdraw funds from the smart contract:
 
